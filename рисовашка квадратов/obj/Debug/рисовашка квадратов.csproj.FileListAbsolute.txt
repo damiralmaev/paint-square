@@ -1,0 +1,10 @@
+C:\Users\Дамир\source\repos\рисовашка квадратов\рисовашка квадратов\bin\Debug\рисовашка квадратов.exe.config
+C:\Users\Дамир\source\repos\рисовашка квадратов\рисовашка квадратов\bin\Debug\рисовашка квадратов.exe
+C:\Users\Дамир\source\repos\рисовашка квадратов\рисовашка квадратов\bin\Debug\рисовашка квадратов.pdb
+C:\Users\Дамир\source\repos\рисовашка квадратов\рисовашка квадратов\obj\Debug\рисовашка квадратов.csprojAssemblyReference.cache
+C:\Users\Дамир\source\repos\рисовашка квадратов\рисовашка квадратов\obj\Debug\рисовашка_квадратов.Form1.resources
+C:\Users\Дамир\source\repos\рисовашка квадратов\рисовашка квадратов\obj\Debug\рисовашка_квадратов.Properties.Resources.resources
+C:\Users\Дамир\source\repos\рисовашка квадратов\рисовашка квадратов\obj\Debug\рисовашка квадратов.csproj.GenerateResource.cache
+C:\Users\Дамир\source\repos\рисовашка квадратов\рисовашка квадратов\obj\Debug\рисовашка квадратов.csproj.CoreCompileInputs.cache
+C:\Users\Дамир\source\repos\рисовашка квадратов\рисовашка квадратов\obj\Debug\рисовашка квадратов.exe
+C:\Users\Дамир\source\repos\рисовашка квадратов\рисовашка квадратов\obj\Debug\рисовашка квадратов.pdb
